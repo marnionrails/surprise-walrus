@@ -9,7 +9,7 @@ jQuery(document).ready(function() {
   });
 
   jQuery("img").click(function() {
-    alert("IT'S WALRUS TIME, BITCH!");
+    alert("AHHH! A SCARY WALRUS!");
   });
 });
 
